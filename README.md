@@ -1,6 +1,6 @@
 # Restaurant Review App
 
-GoReview is a restaurant review website API, which will help you make up your mind before you eat 😋 Back-end built using Spring, front-end is React JS app.
+GoReview is a restaurant review website API, which will help you make up your mind before you eat 😋 Back-end built using Spring, front-end is React JS app. Please visit the front-end and back-end folders to view more in depth READ.ME files.
 
 ## Restaurant Page
 ![Screenshot 2022-10-13 at 15 04 20](https://user-images.githubusercontent.com/108692801/195618828-55be13a6-07fa-43c8-b2fd-c89b03d35bce.png)
